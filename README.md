@@ -1,4 +1,4 @@
-# dataset-clase-regresión
+# dataset-regresión
 
 Base de datos para las actividades de correlación, RLS y RLM del curso Fundamentos de Estadística Inferencial.
 
